@@ -1,0 +1,9 @@
+[ 2023-09-09 05:39:05,739] 19 root - INFO - Reading data from database: APS_PROJECT and collection: SENSOR_FAULT
+[ 2023-09-09 05:39:10,503] 22 root - INFO - columnsIndex(['_id', 'class', 'aa_000', 'ab_000', 'ac_000', 'ad_000', 'ae_000',
+       'af_000', 'ag_000', 'ag_001',
+       ...
+       'ee_002', 'ee_003', 'ee_004', 'ee_005', 'ee_006', 'ee_007', 'ee_008',
+       'ee_009', 'ef_000', 'eg_000'],
+      dtype='object', length=172)
+[ 2023-09-09 05:39:10,504] 24 root - INFO - Dropping column: _id 
+[ 2023-09-09 05:39:10,766] 26 root - INFO - Row and columns in df: (36188, 171)
